@@ -51,4 +51,5 @@ Jika anda ingin menggunakannya silahkan download secara free ke local server kal
 Happy Coding!!!
 
 laravel version 8.75
-laravel sanctum version 2.11
+
+RESTfull API using laravel sanctum 
